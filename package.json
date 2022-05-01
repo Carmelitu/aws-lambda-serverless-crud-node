@@ -1,0 +1,20 @@
+{
+  "name": "aws-lambda-crud-node",
+  "version": "1.0.0",
+  "description": "AWS Simple HTTP Endpoint example in NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "@middy/core": "^2.5.7",
+    "@middy/http-json-body-parser": "^2.5.7",
+    "aws-sdk": "^2.1125.0",
+    "dotenv": "^16.0.0",
+    "uuid": "8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
